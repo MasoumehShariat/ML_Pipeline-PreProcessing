@@ -1,4 +1,4 @@
-## Machine Learning Pipeline: Part1
+## Machine Learning Pipeline: Data Preprocessing
 
 Data preprocessing is extremely important part of Machine Learning process.
 
