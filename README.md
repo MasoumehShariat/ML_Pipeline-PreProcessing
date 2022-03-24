@@ -9,3 +9,5 @@ The parts that I will cover are:
 2- Taking care of Categorical Features
 
 3- Normalization of data set
+
+...
