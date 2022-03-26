@@ -8,4 +8,4 @@ The parts that I will cover are:
 
 2- Taking care of Categorical Features
 
-3- Data transformation (Normalization , Rescaling , Standardization)
+3- Data transformation (Normalization , Rescaling , Standardization,Binarizing Data)
